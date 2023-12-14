@@ -1,0 +1,14 @@
+What i learnt from this project?
+
+=> React
+=> Redux-toolkit
+=> SCSS
+=> Vite
+=> Slices
+=> APIs
+=> Fetching APIs
+=> Hooks (useEffects)
+=> Mixins
+=> Responsive
+=> Global variables for the CSS
+=> useRef hook = To select any element in the DOM we use useRef in the React.

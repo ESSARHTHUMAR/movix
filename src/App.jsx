@@ -10,7 +10,7 @@ import Details from "./Pages/details/Details"
 import Explore from "./Pages/explore/Explore"
 import Error from "./Pages/404/Error"
 import SearchResult from "./Pages/searchResult/SearchResult"
-import { SpeedInsights } from '@vercel/speed-insights/next';
+
 
 function App() {
 
@@ -68,7 +68,7 @@ function App() {
         
       </Routes>
       <Footer />
-      <SpeedInsights />
+      
     </BrowserRouter>
   )
 }
